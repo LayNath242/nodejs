@@ -1,0 +1,8 @@
+npm init  // use to start
+npm install --save express   //use to install express framwork
+npm install --save body-parser   //use to install middleware
+npm install --save-dev nodemon   //use use auto refress   // to use go to package.json in [scripts] add  ["start": "nodemon app.js"]
+npm start  // use to start run project
+npm install --save express-graphql   //use to install graphql for express
+npm install --save graphql   // install graphql manger
+npm install --save mongoose  // mongodb manger
